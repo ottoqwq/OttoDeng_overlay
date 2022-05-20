@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>OttoDeng_overlay</name>
+    <description>OttoDeng's personal overlay</description>
+    <homepage>http://ottoqwq.github.io/OttoDeng_overlay</homepage>
+    <owner type="project">
+      <email>ottodeng9@gmail.com</email>
+      <name>OttoDeng's Overlay</name>
+    </owner>
+    <source type="git">https://github.com/ottoqwq/OttoDeng_overlay.git</source>
+  </repo>
+</repositories>
+
